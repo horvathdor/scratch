@@ -1,6 +1,7 @@
 # scratch
 A játék itt érhető el:
 https://scratch.mit.edu/projects/1141656675
+
 A játék menete:
 - A macska a le-, fel-, jobbra- és balra nyilakkal irányítható le, fel, jobb és bal irányokba.
 - Az egér érintésénél +1, a dinoszaurusz érintésénél -2 pont jár a játékosnak.
